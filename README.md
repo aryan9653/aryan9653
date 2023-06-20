@@ -4,7 +4,7 @@
 # EXPERIENCES:-<br/>
  - **worked with ISTE-PR Team.**
  - **Worked with TCET-TSDW HOSPITALITY Team**.<br/>
- - **Currently interning in TCET-OPEN SOURCE**.git
+ - **Currently interning in TCET-OPEN SOURCE**.
 
 # SOCIAL MEDIA HANDLES:-
  - [instagram🎦](https://www.instagram.com/_aryaaann_/)<br/>
