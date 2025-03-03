@@ -81,11 +81,6 @@
 
 ## 📊 Profile Views  
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=aryan9653&icon=3&color=6" alt="Profile View Counter" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=aryan9653&label=Profile%20Views&color=blue&style=plastic" alt="Profile View Counter" />
 </p>
 
-<!-- Horizontal Divider (Gradient) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<hr>
