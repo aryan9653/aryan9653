@@ -21,8 +21,7 @@
 ## 🚀 About Me  
 - 🔬 I’m currently working on **React, Blockchain, Node.js, MongoDB**  
 - 🌟 I’m currently learning **Hyper Beast Stack for scalable applications**  
-- ☁️ I have a keen interest in **Cloud Computing & Blockchain**  
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)  
+- ☁️ I have a keen interest in **Backend & Blockchain**   
 - 💬 Ask me about **AWS, React, Blockchain, Node.js, MongoDB**  
 - 🛠️ Feel free to reach out: **[aryanshukla9004@gmail.com](mailto:aryanshukla9004@gmail.com)**  
 - 🏠 Join our tech community: [Dev Hac](https://discord.com/invite/p4TWyft886)  
