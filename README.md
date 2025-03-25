@@ -24,8 +24,7 @@
 - 🌱 Exploring **Hyper Beast Stack for scalable applications**  
 - ☁️ Strong interest in **Backend Development & Blockchain Technology**  
 - 💬 Ask me about **AWS, React, Blockchain, Node.js, MongoDB**  
-- 📩 Reach me at: **[aryanshukla9004@gmail.com](mailto:aryanshukla9004@gmail.com)**  
-- 🏠 Join our tech community: [Dev Hac](https://discord.com/invite/p4TWyft886)  
+- 📩 Reach me at: **[aryanshukla9004@gmail.com](mailto:aryanshukla9004@gmail.com)**    
 
 ---
 
